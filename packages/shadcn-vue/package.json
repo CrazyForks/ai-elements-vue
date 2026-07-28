@@ -1,6 +1,6 @@
 {
   "name": "@repo/shadcn-vue",
-  "version": "1.5.1",
+  "version": "1.5.2",
   "private": true,
   "dependencies": {
     "@lucide/vue": "catalog:",
